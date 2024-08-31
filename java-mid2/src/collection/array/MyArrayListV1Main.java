@@ -1,6 +1,6 @@
 package collection.array;
 
-public class MyArrayListMain {
+public class MyArrayListV1Main {
 
     public static void main(String[] args) {
         MyArrayListV1 list = new MyArrayListV1();
@@ -11,6 +11,12 @@ public class MyArrayListMain {
         list.add("b");
         System.out.println(list);
         list.add("c");
+        System.out.println(list);
+        list.add("d");
+        System.out.println(list);
+        list.add("e");
+        System.out.println(list);
+        list.add("f");
         System.out.println(list);
 
 
