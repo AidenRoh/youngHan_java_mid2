@@ -22,13 +22,12 @@ public class NodeMain3 {
 
         // add new data
         System.out.println("add data");
-        addNode(first, "D");
+        addNode(first,"D");
         System.out.println(first);
         addNode(first,"E");
         System.out.println(first);
         addNode(first,"F");
         System.out.println(first);
-
     }
 
     private static void printAll(Node node) {
